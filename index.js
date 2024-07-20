@@ -16,7 +16,7 @@ app.set("views", path.join(__dirname, "views"));
 // Database configuration
 const config = {
   user: "azureuser",
-  password: "P@ssw0rdssss",
+  password: "P@ssword",
   server: "wk10198.database.windows.net",
   database: "wk10",
   options: {
